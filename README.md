@@ -1,3 +1,10 @@
+Instalacja:
 ```
 pip install playwright
-playwright install```
+playwright install
+```
+
+Uruchomienie:
+```
+python main.py
+```
